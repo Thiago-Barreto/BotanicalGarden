@@ -11,5 +11,5 @@
 
 <h2>Desenvolvedor</h2>
 
-- [Thiago Barreto Rodrigues](https://github.com/Thiago-Barreto)
+- [Thiago Barreto Rodrigues](https://github.com/Thiago-Barreto-R)
 - [Botanical Garden - site](https://github.com/Thiago-Barreto-R/Botanical-Garden)
